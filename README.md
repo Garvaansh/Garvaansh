@@ -6,7 +6,7 @@
   <h4><em>🧪 An alchemist of late nights, turning AI and ML into real-time web apps, and bugs into unplanned, surprise features</em></h4>
 </div>
 
-## <img src="./assets/about-icon.gif" width="24"> About Me
+## <img src="./assets/About-icon.svg" width="24" style="vertical-align: middle;"> About Me
 
 <table>
 <tr>
@@ -55,9 +55,9 @@ I'm a **lifelong learner** with a passion for the **alchemy of web development**
 
 <br/>
 
-<img src="./assets/divider.gif" width="100%">
+<br/>
 
-## <img src="./assets/tech-icon.gif" width="30"> Tech Stack & Tools
+## <img src="./assets/tech-icon.svg" width="24" style="vertical-align: middle;"> Tech Stack & Tools
 
 <div align="center">
 
@@ -100,9 +100,9 @@ I'm a **lifelong learner** with a passion for the **alchemy of web development**
 
 <br/>
 
-<img src="./assets/divider.gif" width="100%">
+<br/>
 
-## <img src="./assets/connect-icon.gif" width="32"> Connect & Collaborate
+## 🤝 Connect & Collaborate
 
 <div align="center">
   
