@@ -119,4 +119,13 @@ I'm a **lifelong learner** with a passion for the **alchemy of web development**
 </a>
 
 <br/>
+
+---
+
+<h3 align="left">PS:</h3>
+
+<div align="center">
+<img src="assets/cat-footer.svg" alt="Cat Message" />
+</div>
+
 </div>
