@@ -108,14 +108,17 @@ I'm a **lifelong learner** with a passion for the **alchemy of web development**
   
 ### 💬 Let's Build Something Amazing Together!
 
+<a href="https://notansh.is-a.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+</a>
 <a href="https://github.com/Garvaansh" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://discord.com/users/980746832005189702" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
 <a href="https://www.linkedin.com/in/garvaansh-gupta-176358340" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://discord.com/users/980746832005189702" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 <br/>
