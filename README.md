@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Garvaansh+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="./assets/Intro.svg" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3><em>An alchemist of late nights, turning AI and ML into real-time web apps, and bugs into unplanned, surprise features</em></h3>
-  
+  <h4><em>🧪 An alchemist of late nights, turning AI and ML into real-time web apps, and bugs into unplanned, surprise features</em></h4>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> About Me
+## <img src="./assets/about-icon.gif" width="24"> About Me
 
 <table>
 <tr>
@@ -56,9 +55,9 @@ I'm a **lifelong learner** with a passion for the **alchemy of web development**
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="./assets/divider.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack & Tools
+## <img src="./assets/tech-icon.gif" width="30"> Tech Stack & Tools
 
 <div align="center">
 
@@ -101,27 +100,21 @@ I'm a **lifelong learner** with a passion for the **alchemy of web development**
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garvaansh&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</div>
+<img src="./assets/divider.gif" width="100%">
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Connect & Collaborate
+## <img src="./assets/connect-icon.gif" width="32"> Connect & Collaborate
 
 <div align="center">
   
 ### 💬 Let's Build Something Amazing Together!
 
-<a href="https://github.com/Garvaansh" target="_blank">
+<a href="https://github.com/Garvaansh" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://discord.com/users/980746832005189702" target="_blank">
+<a href="https://discord.com/users/980746832005189702" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="https://www.linkedin.com/in/garvaansh-gupta-176358340" target="_blank">
+<a href="https://www.linkedin.com/in/garvaansh-gupta-176358340" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
